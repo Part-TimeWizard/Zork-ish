@@ -1,9 +1,9 @@
 # Zork-ish
-Zork-ish is a text based adventure game based on the ever popular Zork
-by Infocom. In this game, you type in commands and the computer will interpret
-and carry out those actions, and will print out the result.
+Zork-ish is a text based adventure game based on the InfoCom classic, Zork.
+In this game, you type in commands and the computer will interpret and carry 
+out those actions, and will print out the result.
 
-How to Play
+# How to Play
 
 To play, simply type in commands as though you were talking to the computer,
 like “Pick up key” or “go north” or even “Attack the scary monster with the
@@ -22,14 +22,14 @@ By typing “i” or “inv”, you can view your inventory.
 You also move by just typing the direction or the first letter of the
 direction, such as “north” or “n” to go north.
 
-Commands to get you started:
+# Commands to get you started:
 
 Get _____
 Look _____
 Use _____
 Move _____
 
-For Fun
+# For Fun
 Once you’ve gotten the hang of it, try these commands out:
 
 Pickup door
