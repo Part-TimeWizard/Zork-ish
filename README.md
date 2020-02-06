@@ -1,5 +1,6 @@
 # Zork-ish
 Zork-ish is a text based adventure game based on the InfoCom classic, Zork.
+I created it as a project for a high-school programming class.
 In this game, you type in commands and the computer will interpret and carry 
 out those actions, and will print out the result.
 
