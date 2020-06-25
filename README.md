@@ -37,4 +37,5 @@ Move _____
 Once you’ve gotten the hang of it, try these commands out:
 
 Pickup door
+
 Use mirror (in the mirror room)
